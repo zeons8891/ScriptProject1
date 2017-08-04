@@ -1,0 +1,56 @@
+
+
+html,body {
+  background: url('../images/cover.png') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+
+.box {
+
+
+
+  width: 400px;
+  height:525px ;
+  background: rgba(0,0,0,0.4);
+  padding: 40px;
+  color: white;
+  margin: 0 auto;
+  margin-top: 140px;
+  text-align: center;
+  font-family: "Helvetica Neue", sans-serif;
+
+
+
+
+  h1 {
+    font-weight:100 ;
+    letter-spacing: 6px ;
+    font-size: 40px;
+  }
+
+  .btn{
+    background-color: rgba(0,0,0,0.4);
+
+  }
+
+
+}
+.pic {
+
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+}
+
+.break {
+  width: 275px;
+  border-top:1px solid white ;
+  margin: 0 auto;
+}
+
+
